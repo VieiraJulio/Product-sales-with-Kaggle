@@ -1,15 +1,10 @@
 ### Product sales with Kaggle | Python
 
-
 ### Objetivo
 
-O Kaggle é uma plataforma online voltada para ciência de dados e machine learning, oferecendo desafios competitivos com premiações, um vasto repositório de datasets, 
-notebooks em nuvem para desenvolvimento de projetos, cursos gratuitos para aprendizado e uma comunidade ativa para colaboração e troca de conhecimento, 
-sendo ideal para aprendizado, prática e networking na área. 
+Desenvolver uma apresentação técnica para os diretores, com foco na análise e interpretação das principais métricas de desempenho da empresa.
 
-À vista disso, usando um dataset do Kaggle 
-
-
+Utilizei um dataset público do Kaggle como base para criar um modelo de análise direcionado ao setor de vendas. O template foi estruturado e aplicado em uma apresentação em PowerPoint utilizando dados reais da corporação. Contudo, neste projeto, para fins de compartilhamento e compliance, os dados reais foram substituídos exclusivamente por dados públicos.
 
 ### Organização do projeto 
 
@@ -26,3 +21,12 @@ sendo ideal para aprendizado, prática e networking na área.
        ├── Gráfico Final.png
 
 ```
+
+### Detalhes das métricas 
+
+O Kaggle é uma plataforma online voltada para ciência de dados e machine learning, oferecendo desafios competitivos com premiações, um vasto repositório de datasets, 
+notebooks em nuvem para desenvolvimento de projetos, cursos gratuitos para aprendizado e uma comunidade ativa para colaboração e troca de conhecimento, 
+sendo ideal para aprendizado, prática e networking na área. 
+
+
+
