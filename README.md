@@ -1,4 +1,4 @@
-### Product sales with Kaggle | Python
+### Vendas de Produtos com Kaggle | Python
 
 ### Objetivo
 
@@ -18,7 +18,11 @@ Utilizei um dataset público do Kaggle como base para criar um modelo de anális
        ├── Funções.py
 
 ├── images       <- Imagens usadas no README.
-       ├── Gráfico Final.png
+       ├── Clusterizado meses.png
+       ├── Vendas 2018 meses.png
+       ├── Vendas por ano.png
+       ├── Vendas por categoria.png
+       ├── Vendas por meses.png
 
 ```
 
