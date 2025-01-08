@@ -22,7 +22,7 @@ Utilizei um dataset público do Kaggle como base para criar um modelo de anális
 
 ```
 
-### Detalhes das métricas 
+### Detalhes das métricas utilizadas 
 
 O Kaggle é uma plataforma online voltada para ciência de dados e machine learning, oferecendo desafios competitivos com premiações, um vasto repositório de datasets, 
 notebooks em nuvem para desenvolvimento de projetos, cursos gratuitos para aprendizado e uma comunidade ativa para colaboração e troca de conhecimento, 
@@ -39,7 +39,13 @@ Durante o processo de preparação, os dados foram segmentados e estruturados pa
    
 Caso seja necessário expandir as análises ou adaptar o tratamento, os dados podem ser facilmente ajustados.
 
+### Discussão dos resultados
 
 
 
 
+### Como Reproduzir o Projeto
+
+ - Baixar o arquivo ipynb no repositório.
+ - Acessar a base no Kaggle.
+      
