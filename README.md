@@ -41,6 +41,39 @@ Caso seja necessário expandir as análises ou adaptar o tratamento, os dados po
 
 ### Discussão dos resultados
 
+A primeira métrica é identificar, de forma agrupada, o acompanhamento das vendas nos últimos anos.
+
+![image](https://github.com/user-attachments/assets/b8c92847-1760-4479-973b-27d7ae548a4c)
+
+No último ano analisado (2018), a empresa registrou um aumento de 17% em relação ao ano anterior. No visual, o objetivo é destacar o desempenho desse último ano de forma mais abrangente, para assim, chegar
+nas causas do aumento.
+
+A segunda métrica foca em um nível abaixo da hierarquia anual: os meses.
+
+![image](https://github.com/user-attachments/assets/864991c8-dc0f-4c41-b5e0-4e9567e1847e)
+
+
+Conforme mostrado no gráfico de barras clusterizado, os últimos trimestres do ano apresentam um aumento consistente, pegando os últimos 4 anos.
+
+Mas o que nos iteressa de fato é o ano com mais vendas, 2018.
+
+![image](https://github.com/user-attachments/assets/3b9f3228-e038-40fa-869f-5e415351e918)
+
+
+
+![image](https://github.com/user-attachments/assets/5cd739a4-d355-4538-ae3b-9c6cfe07bd53)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
