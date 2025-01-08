@@ -28,5 +28,18 @@ O Kaggle é uma plataforma online voltada para ciência de dados e machine learn
 notebooks em nuvem para desenvolvimento de projetos, cursos gratuitos para aprendizado e uma comunidade ativa para colaboração e troca de conhecimento, 
 sendo ideal para aprendizado, prática e networking na área. 
 
+Base de dados : https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+
+Este dataset foi previamente tratado utilizando a biblioteca pandas. 
+Durante o processo de preparação, os dados foram segmentados e estruturados para atender às necessidades específicas das análises a serem realizadas, incluindo:
+
+ - Vendas por Período: Estruturado para análise temporal, permitindo identificar tendências sazonais e padrões de vendas em diferentes intervalos de tempo (mensal e anual).
+ - Categoria Mais Vendida: Segmentado por categorias de produtos, possibilitando a identificação de quais categorias geraram maior receita ou volume de vendas.
+ - Itens Mais Vendidos: Filtrado para destacar os produtos com maior receita gerada, ajudando a determinar os itens de melhor desempenho.
+   
+Caso seja necessário expandir as análises ou adaptar o tratamento, os dados podem ser facilmente ajustados.
+
+
+
 
 
