@@ -23,6 +23,10 @@ Utilizei um dataset público do Kaggle como base para criar um modelo de anális
        ├── Vendas por ano.png
        ├── Vendas por categoria.png
        ├── Vendas por meses.png
+       ├── Categoria.png
+       ├── Clusterizado Categoria.png
+       ├── Top N.png
+
 
 ```
 
