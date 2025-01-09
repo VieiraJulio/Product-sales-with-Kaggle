@@ -45,12 +45,13 @@ Caso seja necessário expandir as análises ou adaptar o tratamento, os dados po
 
 ### Discussão dos resultados
 
-A primeira métrica é identificar, de forma agrupada, o acompanhamento das vendas nos últimos anos.
+A primeira métrica é acompanhar, de forma agrupada, as vendas nos últimos anos.
 
-![image](https://github.com/user-attachments/assets/b8c92847-1760-4479-973b-27d7ae548a4c)
+![image](https://github.com/user-attachments/assets/0ec376eb-b8e6-41fd-86f8-8827ff8f9f8d)
 
-No último ano analisado (2018), a empresa registrou um aumento de 17% em relação ao ano anterior. No visual, o objetivo é destacar o desempenho desse último ano de forma mais abrangente, para assim, chegar
-nas causas do aumento.
+
+No último ano analisado (2018), a empresa registrou um aumento de 17% em relação ao ano anterior. 
+O objetivo é destacar o desempenho das vendas desse último ano de forma mais abrangente, para assim, chegar nas causas do aumento.
 
 A segunda métrica foca em um nível abaixo da hierarquia anual: os meses.
 
@@ -63,23 +64,28 @@ Mas o que nos iteressa de fato é o ano com mais vendas, 2018.
 
 ![image](https://github.com/user-attachments/assets/3b9f3228-e038-40fa-869f-5e415351e918)
 
+A terceira métrica, é relacionada as categorias dos nossos produtos.
+
+![image](https://github.com/user-attachments/assets/a211a281-0324-46e4-85c5-2364135b3812)
 
 
-![image](https://github.com/user-attachments/assets/5cd739a4-d355-4538-ae3b-9c6cfe07bd53)
+O destaque fica com a categoria tecnologia olhando os valores agrupados.
+
+![image](https://github.com/user-attachments/assets/72e159f8-896a-46d4-9a19-1cd1d2ad5cad)
 
 
+Com a visão das vendas por categoria ao longo dos anos, a categoria tecnologia apresentou um aumento somente nos últimos dos anos. 
 
+Por fim, o cerne do projeto é saber quais são os Top N produtos terão um aumento no estoque, conforme seu número de vendas. 
 
+![image](https://github.com/user-attachments/assets/b4af4a8e-f341-4734-b58e-3e9a233ef7bb)
 
+Essa visão é clusterizada por ano, com ela temos uma ideia dos comportamentos do produtos nos últimos períodos. 
 
+### Principais Ferramentas
 
-
-
-
-
-
-
-
+ - As ferramentas de visualização: Matplotlib
+ - Construção e Cálculos: Pandas e Numpy. 
 
 ### Como Reproduzir o Projeto
 
